@@ -42,5 +42,5 @@
     display: none;
 }
 .accordion--open .accordion_header{
-    
+    background-color: white;
 }
