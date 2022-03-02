@@ -27,4 +27,6 @@
 .button--danger .button--outline{
     background-color: brown;
 }
-.accordion{}
+.accordion{
+    border: 1px solid lightgray;
+}
