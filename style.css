@@ -54,5 +54,5 @@
     border-top: none;
 }
 .accordion .accordion:not(:last-of-type){
-    
+    border-bottom-left-radius: 0;
 }
