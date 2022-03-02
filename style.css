@@ -37,5 +37,7 @@
     font-weight: bold;
 }
 .accordion_content{
-    
+    border-top: 1px solid lightgray;
+    padding: .5rem 1rem;
+    display: none;
 }
