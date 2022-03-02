@@ -47,3 +47,7 @@
 .accordion .accordion_content{
     display: block;
 }
+
+.accordions .accordion:not(:first-of-type){
+    border-top-left-radius: 0;
+}
