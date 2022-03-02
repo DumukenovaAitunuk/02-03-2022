@@ -53,3 +53,6 @@
     border-top-right-radius: 0;
     border-top: none;
 }
+.accordion .accordion:not(:last-of-type){
+    
+}
