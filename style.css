@@ -20,7 +20,9 @@
     color: blueviolet;
     background-color: white;
 }
-
+.button--danger{
+    background-color: brown;
+}
 
 .button--danger{
     background-color: brown;
