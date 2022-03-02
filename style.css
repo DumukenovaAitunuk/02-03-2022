@@ -41,3 +41,6 @@
     padding: .5rem 1rem;
     display: none;
 }
+.accordion--open .accordion_header{
+    
+}
