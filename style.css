@@ -16,7 +16,7 @@
     display: inline-block;
 }
 .button--outline{
-    
+    border: 2px solid blueviolet;
 }
 
 
