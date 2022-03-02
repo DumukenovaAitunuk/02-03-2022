@@ -18,6 +18,7 @@
 .button--outline{
     border: 2px solid blueviolet;
     color: blueviolet;
+    background-color: white;
 }
 
 
